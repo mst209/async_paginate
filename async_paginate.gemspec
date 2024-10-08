@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 2.6.0"
 
 
-  spec.metadata["source_code_uri"] = "https://github.com/mst209/AsyncPaginate"
-  spec.metadata["changelog_uri"] = "https://github.com/mst209/AsyncPaginate/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/mst209/async_paginate"
+  spec.metadata["changelog_uri"] = "https://github.com/mst209/async_paginate/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
